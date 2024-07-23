@@ -1,0 +1,9 @@
+.Renviron
+*.pdf
+.Rhistory
+.Rproj.user
+.Rdata
+.Rda
+data/*
+literature/*
+results/*
